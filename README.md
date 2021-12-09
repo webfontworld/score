@@ -1,8 +1,6 @@
-# score
-
 # 에스코어드림(SCoreDream)
 
-<a href="https://wess.tistory.com/257" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/score/SCoreDream.jpg" alt="SCoreDream" style="width:300px">
 </a>
 <pre>
